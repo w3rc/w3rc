@@ -3,7 +3,7 @@
 
 
 
-[![Rupayan's github stats](https://github-readme-stats.vercel.app/api?username=w3rc&hide=stars&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Rupayan's github stats](https://github-readme-stats.vercel.app/api?username=w3rc&hide=stars&count_private=true&show_icons=true&theme=darcula)](https://github.com/w3rc)
 
 <!--
 **rupayan10/rupayan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
