@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Go to -> [a]rupayan.netlify.app
+Go to -> [portfolio](https://rupayan.netlify.app)
