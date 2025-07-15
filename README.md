@@ -1,7 +1,4 @@
 # 👋 Hey there, I’m **Rupayan**
-
-[🔗 Portfolio](https://rupayan.netlify.app)
-
 ---
 
 ## 🚀 About Me
