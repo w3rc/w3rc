@@ -24,4 +24,4 @@ I’m a Senior Backend Engineer at **FlowScale**, passionate about building scal
 
 ## 📊 GitHub Stats
 
-![SilverIon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rupayan&show_icons=true&theme=radical)
+![SilverIon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=w3rc&show_icons=true&theme=radical)
