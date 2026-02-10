@@ -9,16 +9,3 @@ I’m a Senior Backend Engineer at **FlowScale**, passionate about building scal
 - 💬 Ask me about **blockchain**, **backend architectures**, or **game dev**!
 
 ---
-
-## 🛠️ Skills & Tools
-
-| Backend               | Blockchain            | DevOps & Infra      |  
-| --------------------- | --------------------- | ------------------- |
-| Python, Go, Java      | Solidity, Rust        | Docker, Kubernetes  |  
-| FastAPI               | Web3.js, ethers.js    | AWS                 |
-
----
-
-## 📊 GitHub Stats
-
-![SilverIon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=w3rc&show_icons=true&theme=radical)
