@@ -1,11 +1,17 @@
-# 👋 Hey there, I’m **Rupayan**
----
+ ## Rupayan Chakraborty                                                                                                                                                        
+ 
+AI Integration & Full Stack Engineer based in India.                                                                                                                 
+                                                                                                                                                                            
+9 years building systems. The last 3 mostly about wiring language models                                                                                                    
+into production — not demos, things that actually run under load with real
+users who aren't developers.
 
-## 🚀 About Me
+**What I build:**
+- AI-powered content and automation platforms (OpenAI, Claude, Whisper)
+- Full stack web apps (React, Node.js, TypeScript, PostgreSQL)
+- Desktop tools (Electron), pipelines, scheduled workers, Telegram bots
+- Anything that needs an LLM connected to a real backend
 
-I’m a Senior Backend Engineer at **FlowScale**, passionate about building scalable systems. In my free time, I explore **AI**, **finance**, and **gaming** topics.
+**Current stack:** React · Node.js · TypeScript · PostgreSQL · Express · Whisper API · OpenAI API · Claude API · Vite · AWS
 
-- 🌱 Learning new **AI-driven** tools and **Unreal Engine 5** features.
-- 💬 Ask me about **blockchain**, **backend architectures**, or **game dev**!
-
----
+Email - rupayanc16@gmail.com
